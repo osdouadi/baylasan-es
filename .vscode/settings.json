@@ -1,0 +1,16 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "files.autoSave": "afterDelay",
+  "editor.formatOnSave": true,
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "eslint.format.enable": true,
+  "eslint.options": {
+    "overrideConfigFile": "/home/oussama-dev/Desktop/Web Development/Econoza/backend/.eslintrc.js"
+  }
+}
