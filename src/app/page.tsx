@@ -85,7 +85,7 @@ export default function Home() {
         <Card className="shadow-lg border border-gray-200 rounded-lg">
           <CardHeader className="text-center bg-[#414042] rounded-t-lg text-white py-4">
             <CardTitle className="text-lg md:text-xl font-semibold tracking-wider">
-              Portal de sugerencias y observaciones
+              Portal de sugerencias y consultas
             </CardTitle>
           </CardHeader>
           <CardContent className="p-6 bg-white">
