@@ -25,8 +25,8 @@ export const sendNotification = async (data: Data) => {
 
   await transporter.sendMail({
     ...mailOptions,
-    subject: "بوابة المقترحات و الملاحظات",
-    text: "رسالة جديدة",
+    subject: "Portal de sugerencias y consultas",
+    text: "Nuevo mensaje",
     html,
   });
 };

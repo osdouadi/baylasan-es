@@ -465,8 +465,7 @@ export default function Home() {
                               />
                             </svg>
                             <span className="-mb-0.5">
-                              {" "}
-                              Cuéntanos todo lo que tengas{" "}
+                              Cuéntanos todo lo que tengas
                             </span>
                           </FormLabel>
                           <FormControl>
